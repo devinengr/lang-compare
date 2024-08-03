@@ -1,5 +1,15 @@
 # Lang Compare
 
+### C
+
+![c](resources/lang_compare_c.gif)
+
+### Python
+
+![python](resources/lang_compare_python.gif)
+
+# Description
+
 This code compares the speed of Python and C on your machine using brute force matrix multiplication and recursive Fibonacci sequence number finding. Since Python is an interpreted language, it tends to be much slower than compiled languages like C. Python is especially slow at recursion.
 
 # Requirements
